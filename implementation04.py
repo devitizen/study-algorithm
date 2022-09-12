@@ -39,9 +39,3 @@ while True:
 
 print(count)
 
-
-
-
-
-
-
